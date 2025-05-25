@@ -7,7 +7,7 @@ A mobile app built using Flutter and Firebase that lets users track their favori
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/7aAxwEEij-Q?si=544Os76Fod2MYPjj)" target="_blank">
+  <a href="https://youtu.be/7aAxwEEij-Q?si=544Os76Fod2MYPjj" target="_blank">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="600" alt="Watch Demo Video">
   </a>
 </p>
