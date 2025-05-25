@@ -20,9 +20,9 @@ A mobile app built using Flutter and Firebase that lets users track their favori
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="300" alt="Login Screen">
-  <img src="assets/screenshot2.png" width="300" alt="Watchlist Screen">
-  <img src="assets/screenshot3.png" width="300" alt="Live Prices Screen">
+  <img src="assets/screenshot1.jpg" width="300" alt="Login Screen">
+  <img src="assets/screenshot2.jpg" width="300" alt="Watchlist Screen">
+  <img src="assets/screenshot3.jpg" width="300" alt="Live Prices Screen">
 </p>
 
 ---
