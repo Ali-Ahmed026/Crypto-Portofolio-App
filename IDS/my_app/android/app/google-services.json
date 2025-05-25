@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051245747836",
+    "project_id": "cryptopredictor-b97e8",
+    "storage_bucket": "cryptopredictor-b97e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051245747836:android:ee1e6dee31ab64259473f9",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvqWcG9gSBgNZeH8QJ34z1HfMLZG22PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
