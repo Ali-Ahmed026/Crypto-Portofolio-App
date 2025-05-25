@@ -6,11 +6,9 @@ A mobile app built using Flutter and Firebase that lets users track their favori
 
 ## 🎥 Demo Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="600" alt="Watch Demo Video">
-  </a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aAxwEEij-Q?si=rnQiJFvftCpfCzdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 > ▶️ Click the image above to watch a 2-minute demo of the app
 
@@ -74,7 +72,7 @@ lib/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/crypto-predictor.git
+git clone https://github.com/Ali-Ahmed026/crypto-predictor.git
 cd crypto-predictor
 flutter pub get
 flutter run
@@ -95,4 +93,4 @@ This project is for educational/demo purposes.
 
 ## 🙋‍♂️ Author
 
-Made with 💙 by [Your Name]
+Made by Ali Ahmed Malik (01-134222-022) from BS(CS)-6C
